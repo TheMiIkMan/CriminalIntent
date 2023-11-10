@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GreenSpot</string>
+    <string name="crime_title_hint">Enter a name for the plant.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="new_plant">New Plant</string>
+    <string name="help">Help</string>
+    <string name="delete_plant">Delete Plant</string>
+    <string name="plant_picture_text">Take picture of plant</string>
+</resources>
